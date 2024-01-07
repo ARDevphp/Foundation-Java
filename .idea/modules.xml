@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algaritm/Algaritm.iml" filepath="$PROJECT_DIR$/Algaritm/Algaritm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam.80/Exam.80.iml" filepath="$PROJECT_DIR$/Exam.80/Exam.80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam80/Exam80.iml" filepath="$PROJECT_DIR$/Exam80/Exam80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For6/For6.iml" filepath="$PROJECT_DIR$/For6/For6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Foundation.Gita.iml" filepath="$PROJECT_DIR$/Foundation.Gita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fun/Fun.iml" filepath="$PROJECT_DIR$/Fun/Fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson1/Lesson1.iml" filepath="$PROJECT_DIR$/Lesson1/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxlesson/MinMaxlesson.iml" filepath="$PROJECT_DIR$/MinMaxlesson/MinMaxlesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proktika/Proktika.iml" filepath="$PROJECT_DIR$/Proktika/Proktika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLesson9/WhileLesson9.iml" filepath="$PROJECT_DIR$/WhileLesson9/WhileLesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3_boolean/lesson3_boolean.iml" filepath="$PROJECT_DIR$/lesson3_boolean/lesson3_boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4.if.else/lesson4.if.else.iml" filepath="$PROJECT_DIR$/lesson4.if.else/lesson4.if.else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5.switch.case/lesson5.switch.case.iml" filepath="$PROJECT_DIR$/lesson5.switch.case/lesson5.switch.case.iml" />
+    </modules>
+  </component>
+</project>

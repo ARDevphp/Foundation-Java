@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bootcamp/Bootcamp.iml" filepath="$PROJECT_DIR$/Bootcamp/Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesso12homework/Lesso12homework.iml" filepath="$PROJECT_DIR$/Lesso12homework/Lesso12homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson11/lesson11.iml" filepath="$PROJECT_DIR$/lesson11/lesson11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootcamp/lesson12/lesson12.iml" filepath="$PROJECT_DIR$/Bootcamp/lesson12/lesson12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson13/lesson13.iml" filepath="$PROJECT_DIR$/lesson13/lesson13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson14/lesson14.iml" filepath="$PROJECT_DIR$/lesson14/lesson14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson15/lesson15.iml" filepath="$PROJECT_DIR$/lesson15/lesson15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16/lesson16.iml" filepath="$PROJECT_DIR$/lesson16/lesson16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uz.gita.iml" filepath="$PROJECT_DIR$/uz.gita.iml" />
+    </modules>
+  </component>
+</project>
